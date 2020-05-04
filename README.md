@@ -1,6 +1,6 @@
 # (unofficial) Japanese l10n of GameMaker Studio 2's User Manual
 
-詳細は [こちら](https://trackiss.github.io/gms2man-jp/) をお読みください。
+詳細は [こちら](https://trackiss.github.io/gms2manual-jp-public/) をお読みください。
 
 以下は、実際に翻訳作業を行っているリポジトリ (非公開) の README です。翻訳指針や気になった点をメモ代わりに載せてあります。
 
