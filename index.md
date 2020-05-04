@@ -24,7 +24,7 @@ search_exclude: true
 思いっきり意訳です。非可逆です。なるべく文意を保ちつつ、自然になるよう改変しています。  
 また、原文にもかなり間違いが多いので、それとなく修正したりしています。
 
-方針などをメモがわりに [README](https://github.com/trackiss/gms2manual-jp/blob/master/README.md) へ書いてあります。ほんとに個人的なメモなので、参考程度に。
+方針などをメモがわりに [README](https://github.com/trackiss/gms2manual-jp-public/blob/master/README.md) へ書いてあります。ほんとに個人的なメモなので、参考程度に。
 
 <br>
 
