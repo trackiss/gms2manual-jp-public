@@ -38,7 +38,13 @@ search_exclude: true
 
 このウェブサイトは、[MIT License](https://github.com/trackiss/gms2manual-jp-public/blob/master/LICENSE){: target="_blank" rel="noopener"} に基づいて公開されています。
 
-`./assets/js/vendor` に配置されている `lunr.ja.min.js`、`lunr.stemmer.support.min.js`、`tinyseg.js` のソースコードは、[Mozilla Public License](https://github.com/trackiss/gms2manual-jp-public/blob/master/LICENSE-lunr-languages){: target="_blank" rel="noopener"} によってライセンスされています。
+`./assets/js/vendor` に配置されている
+
+- `lunr.ja.min.js`
+- `lunr.stemmer.support.min.js`
+- `tinyseg.js`
+
+のソースコードは、[Mozilla Public License](https://github.com/trackiss/gms2manual-jp-public/blob/master/LICENSE-lunr-languages){: target="_blank" rel="noopener"} によってライセンスされています。
 
 DnD™ は YoYo Games Ltd. の商標であり、trackiss が権利を主張するものではありません。  
 また、その他の商品名は、それぞれ特定の企業の商品です。
