@@ -120,13 +120,13 @@ $content-width: 1024px;
 //// Media queries in pixels
 ////
 
-//$media-queries: (
-//xs: 320px,
-//sm: 500px,
-//md: $content-width,
-//lg: $content-width + $nav-width,
-//xl: 1400px
-//);
+$media-queries: (
+xs: 320px,
+sm: 500px,
+md: $content-width,
+lg: $content-width + $nav-width,
+xl: 1400px
+);
 
 *:focus {
   outline: none;
@@ -160,11 +160,24 @@ img.center {
   padding: 1em;
 }
 
-iframe {
+.scroll-iframe {
   display: block;
   height: 480px;
   margin: auto;
-  width: 80%;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  width: 100%;
+
+  @include mq(lg) {
+    width: 80%;
+  }
+}
+
+iframe {
+  height: 100%;
+  min-width: 640px;
+  width: 100%;
 }
 
 details {

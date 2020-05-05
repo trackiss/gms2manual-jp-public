@@ -11,10 +11,10 @@ parent: セットアップ
 
 IDE とランタイムの両方を独立してアップデートできるため、リリース ノートは2つへ分割されています。IDE の現在のリリース ノートは、次のリンクから参照できます:
 
-<iframe src="https://gms.yoyogames.com/ReleaseNotes.html"><a href="https://gms.yoyogames.com/ReleaseNotes.html">IDE のリリース ノート</a></iframe>
+<div class="scroll-iframe"><iframe src="https://gms.yoyogames.com/ReleaseNotes.html"><a href="https://gms.yoyogames.com/ReleaseNotes.html">IDE のリリース ノート</a></iframe></div>
 
 <br>
 
 次のリンクから、ランタイムの現在のリリース ノートを探すことができます:
 
-<iframe src="https://gms.yoyogames.com/release-notes-runtime.html"><a href="https://gms.yoyogames.com/release-notes-runtime.html">ランタイムのリリース ノート</a></iframe>
+<div class="scroll-iframe"><iframe src="https://gms.yoyogames.com/release-notes-runtime.html"><a href="https://gms.yoyogames.com/release-notes-runtime.html">ランタイムのリリース ノート</a></iframe></div>
