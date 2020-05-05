@@ -13,8 +13,8 @@ search_exclude: true
 [YoYo Games](https://www.yoyogames.com/) 社が開発および販売しているクロスプラットフォームな 2D ゲームエンジン [**GameMaker Studio 2**](https://www.yoyogames.com/gamemaker) の [公式ユーザーマニュアル](https://docs2.yoyogames.com/) を勝手に日本語訳した成果をまとめてあるサイトです。*絶賛翻訳中！！*
 {: .fs-6 .fw-300 }
 
-ただいま、作業中のブランチからデータを移行している最中です。
-{: .fs-5 .fw-300 }
+ただいま、作業中のリポジトリからデータを移行している最中です。
+{: .fs-6 .fw-300 }
 
 実際の翻訳作業は別のプライベート リポジトリで行っておりますので、かならずしも最新の作業進捗がこちらへ反映されるわけではありません。  
 また、著作権上の問題から、画像等は掲載しておりません。自分で用意したものをあとから追加するかもしれませんが、今のところは翻訳を最優先にしています。
@@ -24,7 +24,7 @@ search_exclude: true
 思いっきり意訳です。非可逆です。なるべく文意を保ちつつ、自然になるよう改変しています。  
 また、原文にもかなり間違いが多いので、それとなく修正したりしています。
 
-方針などをメモがわりに [README](https://github.com/trackiss/gms2manual-jp/blob/master/README.md) へ書いてあります。ほんとに個人的なメモなので、参考程度に。
+方針などをメモがわりに [README](https://github.com/trackiss/gms2manual-jp-public/blob/master/README.md) へ書いてあります。ほんとに個人的なメモなので、参考程度に。
 
 <br>
 
