@@ -41,7 +41,7 @@ aux_links:
     - "https://docs2.yoyogames.com"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 trackiss. Distributed by a <a href=\"https://github.com/trackiss/gms2man-jp/tree/master/LICENSE\">MPL license.</a>"
+footer_content: "Copyright &copy; 2020 trackiss. Distributed by a <a href=\"https://github.com/trackiss/gms2man-jp/tree/master/LICENSE\">MIT license.</a>"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: "dark"
