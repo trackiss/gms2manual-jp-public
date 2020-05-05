@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '4.0.0'
+gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
   gem 'jekyll-seo-tag', '2.6.1'
@@ -12,4 +12,4 @@ gem 'just-the-docs'
 gem 'tzinfo', '2.0.2'
 gem 'tzinfo-data', '1.2020.1'
 
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'wdm', '>= 0.1.1' if Gem.win_platform?
