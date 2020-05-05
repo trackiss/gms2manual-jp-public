@@ -155,6 +155,11 @@ $content-width: 1024px;
   margin: auto;
 }
 
+img {
+  display: block;
+  padding: 1em;
+}
+
 iframe {
   display: block;
   height: 480px;
