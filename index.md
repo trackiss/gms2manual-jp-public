@@ -38,7 +38,10 @@ search_exclude: true
 
 このウェブサイトは、[MIT License](https://github.com/trackiss/gms2manual-jp-public/blob/master/LICENSE){: target="_blank" rel="noopener"} に基づいて公開されています。
 
-DnD™ は、YoYo Games Ltd. の商標です。その他、トレードマークおよび登録商標の表記がない商品名は、それぞれなんらかの企業の商品です。
+`./assets/js/vendor` に配置されている `lunr.ja.min.js`、`lunr.stemmer.support.min.js`、`tinyseg.js` のソースコードは、[Mozilla Public License](https://github.com/trackiss/gms2manual-jp-public/blob/master/LICENSE-lunr-languages){: target="_blank" rel="noopener"} によってライセンスされています。
+
+DnD™ は YoYo Games Ltd. の商標であり、trackiss が権利を主張するものではありません。  
+また、その他の商品名は、それぞれ特定の企業の商品です。
 
 ---
 
@@ -48,5 +51,4 @@ DnD™ は、YoYo Games Ltd. の商標です。その他、トレードマーク
 
 このウェブサイトの Jekyll テーマには、[Just the Docs](https://github.com/pmarsceill/just-the-docs){: target="_blank" rel="noopener"} (by Patrick Marsceill) を改変したものを使用しています。
 
-このウェブサイトの日本語検索機能には、[Lunr Languages](https://github.com/MihaiValentin/lunr-languages){: target="_blank" rel="noopener"} (by Mihai Valentin) を使用しています。  
-Lnur Languages のソースコードは、[Mozilla Public License](https://github.com/trackiss/gms2manual-jp-public/blob/master/LICENSE-lunr-languages){: target="_blank" rel="noopener"} によってライセンスされています。
+このウェブサイトの日本語検索機能には、[Lunr Languages](https://github.com/MihaiValentin/lunr-languages){: target="_blank" rel="noopener"} (by Mihai Valentin) を使用しています。
