@@ -155,7 +155,7 @@ $content-width: 1024px;
   margin: auto;
 }
 
-img:not(.center) {
+img.center {
   display: block;
   padding: 1em;
 }
