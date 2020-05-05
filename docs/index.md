@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GameMaker Studio 2 マニュアル
-nav_order: 2
+nav_order: 3
 ---
 
 ## GameMaker Studio 2 マニュアル
