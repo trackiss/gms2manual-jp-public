@@ -4,6 +4,7 @@ title: セットアップ
 nav_order: 3
 has_children: true
 permalink: docs/1_overview/1_getting_started
+has_toc: false
 ---
 
 ## セットアップ

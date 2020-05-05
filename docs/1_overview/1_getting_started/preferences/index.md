@@ -5,6 +5,7 @@ nav_order: 10
 has_children: true
 permalink: docs/1_overview/1_getting_started/preferences
 parent: セットアップ
+has_toc: false
 ---
 
 ## IDE の環境設定
