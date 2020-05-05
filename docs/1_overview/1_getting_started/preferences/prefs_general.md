@@ -2,7 +2,6 @@
 layout: default
 title: 環境設定 - 全般
 nav_order: 1
-permalink: docs/1_overview/1_getting_started/preferences
 parent: IDE の環境設定
 grand_parent: セットアップ
 ---
